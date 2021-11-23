@@ -1,0 +1,5 @@
+export const TabLabels={
+    CANCEL_AT_ANY_TIME:"cancel at any time",
+    WATCH_ANYWHERE:"watch anywhere",
+    PICK_YOUR_PRICE:"pick your price"
+}
